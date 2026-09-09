@@ -1,0 +1,71 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Assistant IA de Dressage",
+
+  "loginTitle": "Content de vous revoir",
+  "signupTitle": "Créer un compte",
+  "emailLabel": "E-mail",
+  "passwordLabel": "Mot de passe",
+  "nameLabel": "Nom complet",
+  "loginButton": "Se connecter",
+  "signupButton": "S'inscrire",
+  "noAccountYet": "Pas encore de compte ? Inscrivez-vous",
+  "haveAccountAlready": "Déjà un compte ? Connectez-vous",
+  "logout": "Se déconnecter",
+
+  "navCapture": "Analyser",
+  "navHistory": "Historique",
+  "navLeaderboard": "Classement",
+  "navCoach": "Coach IA",
+
+  "captureTitle": "Analyser une assiette",
+  "takePhoto": "Prendre une photo",
+  "uploadPhoto": "Choisir dans la galerie",
+  "analyzeButton": "Analyser la présentation",
+  "analyzing": "Analyse du dressage en cours…",
+  "retake": "Reprendre",
+
+  "resultTitle": "Score de présentation",
+  "outOf100": "/ 100",
+  "subscoreComposition": "Composition",
+  "subscoreColors": "Couleurs",
+  "subscoreGarnish": "Garniture",
+  "subscoreCleanliness": "Propreté",
+  "subscoreBalance": "Équilibre",
+  "strengths": "Points forts",
+  "suggestions": "Suggestions",
+  "saveToHistory": "Enregistrer dans l'historique",
+  "savedToHistory": "Enregistré dans votre historique",
+  "shareResult": "Partager",
+
+  "historyTitle": "Votre historique",
+  "noHistoryYet": "Aucune analyse pour le moment. Analysez votre première assiette !",
+  "historyDeleteConfirm": "Supprimer cette analyse ?",
+  "delete": "Supprimer",
+  "cancel": "Annuler",
+
+  "leaderboardTitle": "Classement de la cuisine",
+  "leaderboardEmpty": "Aucun score pour le moment. Soyez le premier à dresser une assiette !",
+  "leaderboardSubtitle": "Classé selon la moyenne des 10 derniers plats",
+
+  "coachTitle": "Coach IA de dressage",
+  "coachHint": "Demandez-moi sur les garnitures, les couleurs, les styles…",
+  "coachSend": "Envoyer",
+  "coachWelcome": "Bonjour, je suis votre coach de dressage. Posez-moi vos questions sur la présentation des plats !",
+
+  "settingsTitle": "Paramètres",
+  "language": "Langue",
+  "english": "Anglais",
+  "french": "Français",
+  "arabic": "Arabe",
+
+  "errorGeneric": "Une erreur est survenue. Veuillez réessayer.",
+  "errorNoImage": "Veuillez d'abord prendre ou importer une photo.",
+  "errorNetwork": "Erreur réseau. Vérifiez votre connexion.",
+  "retry": "Réessayer",
+
+  "verdictExcellent": "Présentation excellente",
+  "verdictGood": "Bonne présentation",
+  "verdictAverage": "Présentation moyenne",
+  "verdictNeedsWork": "À améliorer"
+}

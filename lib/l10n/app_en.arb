@@ -1,0 +1,71 @@
+{
+  "@@locale": "en",
+  "appTitle": "AI Plating Assistant",
+
+  "loginTitle": "Welcome back",
+  "signupTitle": "Create account",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "nameLabel": "Full name",
+  "loginButton": "Log in",
+  "signupButton": "Sign up",
+  "noAccountYet": "Don't have an account? Sign up",
+  "haveAccountAlready": "Already have an account? Log in",
+  "logout": "Log out",
+
+  "navCapture": "Analyze",
+  "navHistory": "History",
+  "navLeaderboard": "Leaderboard",
+  "navCoach": "AI Coach",
+
+  "captureTitle": "Analyze a plate",
+  "takePhoto": "Take a photo",
+  "uploadPhoto": "Upload from gallery",
+  "analyzeButton": "Analyze presentation",
+  "analyzing": "Analyzing your plating…",
+  "retake": "Retake",
+
+  "resultTitle": "Presentation Score",
+  "outOf100": "/ 100",
+  "subscoreComposition": "Composition",
+  "subscoreColors": "Colors",
+  "subscoreGarnish": "Garnish",
+  "subscoreCleanliness": "Cleanliness",
+  "subscoreBalance": "Balance",
+  "strengths": "Strengths",
+  "suggestions": "Suggestions",
+  "saveToHistory": "Save to history",
+  "savedToHistory": "Saved to your history",
+  "shareResult": "Share",
+
+  "historyTitle": "Your History",
+  "noHistoryYet": "No analyses yet. Analyze your first plate!",
+  "historyDeleteConfirm": "Delete this analysis?",
+  "delete": "Delete",
+  "cancel": "Cancel",
+
+  "leaderboardTitle": "Kitchen Leaderboard",
+  "leaderboardEmpty": "No scores yet. Be the first to plate up!",
+  "leaderboardSubtitle": "Ranked by average of last 10 dishes",
+
+  "coachTitle": "AI Plating Coach",
+  "coachHint": "Ask about garnish, colors, plating styles…",
+  "coachSend": "Send",
+  "coachWelcome": "Hi, I'm your plating coach. Ask me anything about food presentation!",
+
+  "settingsTitle": "Settings",
+  "language": "Language",
+  "english": "English",
+  "french": "French",
+  "arabic": "Arabic",
+
+  "errorGeneric": "Something went wrong. Please try again.",
+  "errorNoImage": "Please take or upload a photo first.",
+  "errorNetwork": "Network error. Check your connection.",
+  "retry": "Retry",
+
+  "verdictExcellent": "Excellent presentation",
+  "verdictGood": "Good presentation",
+  "verdictAverage": "Average presentation",
+  "verdictNeedsWork": "Needs work"
+}

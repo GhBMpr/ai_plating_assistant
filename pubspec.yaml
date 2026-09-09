@@ -1,0 +1,36 @@
+name: ai_plating_assistant
+description: AI Plating Assistant - analyze plate presentation with Gemini Vision.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+  # Media
+  image_picker: ^1.1.2
+
+  # Networking (used to call the Gemini API directly via REST)
+  http: ^1.2.2
+
+  # State management
+  provider: ^6.1.2
+
+  # Utilities
+  shared_preferences: ^2.3.2
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true # enables flutter gen-l10n from l10n.yaml

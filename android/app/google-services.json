@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479628337743",
+    "project_id": "ai-plating-assistant",
+    "storage_bucket": "ai-plating-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479628337743:android:93afc9c52f5b255efb003a",
+        "android_client_info": {
+          "package_name": "com.example.ai_plating_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuH0lg_AF_VG0Ku-qUHiglC7RYJoj5e-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479628337743:android:bc5edf39450e583efb003a",
+        "android_client_info": {
+          "package_name": "com.ghofrane.ai_plating_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuH0lg_AF_VG0Ku-qUHiglC7RYJoj5e-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

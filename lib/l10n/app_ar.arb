@@ -1,0 +1,71 @@
+{
+  "@@locale": "ar",
+  "appTitle": "مساعد تنسيق الأطباق بالذكاء الاصطناعي",
+
+  "loginTitle": "مرحبًا بعودتك",
+  "signupTitle": "إنشاء حساب",
+  "emailLabel": "البريد الإلكتروني",
+  "passwordLabel": "كلمة المرور",
+  "nameLabel": "الاسم الكامل",
+  "loginButton": "تسجيل الدخول",
+  "signupButton": "إنشاء حساب",
+  "noAccountYet": "ليس لديك حساب؟ أنشئ واحدًا",
+  "haveAccountAlready": "لديك حساب بالفعل؟ سجّل الدخول",
+  "logout": "تسجيل الخروج",
+
+  "navCapture": "تحليل",
+  "navHistory": "السجل",
+  "navLeaderboard": "لوحة الصدارة",
+  "navCoach": "المدرّب الذكي",
+
+  "captureTitle": "تحليل طبق",
+  "takePhoto": "التقاط صورة",
+  "uploadPhoto": "رفع من المعرض",
+  "analyzeButton": "تحليل التنسيق",
+  "analyzing": "جارٍ تحليل تنسيق طبقك…",
+  "retake": "إعادة الالتقاط",
+
+  "resultTitle": "درجة التنسيق",
+  "outOf100": "/ 100",
+  "subscoreComposition": "التكوين",
+  "subscoreColors": "الألوان",
+  "subscoreGarnish": "الزينة",
+  "subscoreCleanliness": "النظافة",
+  "subscoreBalance": "التوازن",
+  "strengths": "نقاط القوة",
+  "suggestions": "اقتراحات",
+  "saveToHistory": "الحفظ في السجل",
+  "savedToHistory": "تم الحفظ في سجلك",
+  "shareResult": "مشاركة",
+
+  "historyTitle": "سجلّك",
+  "noHistoryYet": "لا توجد تحليلات بعد. حلّل طبقك الأول!",
+  "historyDeleteConfirm": "هل تريد حذف هذا التحليل؟",
+  "delete": "حذف",
+  "cancel": "إلغاء",
+
+  "leaderboardTitle": "لوحة صدارة المطبخ",
+  "leaderboardEmpty": "لا توجد نتائج بعد. كن أول من يقدّم طبقًا!",
+  "leaderboardSubtitle": "الترتيب حسب متوسط آخر 10 أطباق",
+
+  "coachTitle": "مدرّب التنسيق الذكي",
+  "coachHint": "اسأل عن الزينة، الألوان، أساليب التقديم…",
+  "coachSend": "إرسال",
+  "coachWelcome": "مرحبًا، أنا مدرّبك في تنسيق الأطباق. اسألني أي شيء عن تقديم الطعام!",
+
+  "settingsTitle": "الإعدادات",
+  "language": "اللغة",
+  "english": "الإنجليزية",
+  "french": "الفرنسية",
+  "arabic": "العربية",
+
+  "errorGeneric": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "errorNoImage": "يرجى التقاط أو رفع صورة أولاً.",
+  "errorNetwork": "خطأ في الشبكة. تحقق من اتصالك.",
+  "retry": "إعادة المحاولة",
+
+  "verdictExcellent": "تنسيق ممتاز",
+  "verdictGood": "تنسيق جيد",
+  "verdictAverage": "تنسيق متوسط",
+  "verdictNeedsWork": "يحتاج إلى تحسين"
+}
